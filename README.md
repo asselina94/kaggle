@@ -14,7 +14,7 @@ https://fred.stlouisfed.org/docs/api/fred/
 4. Joining Indicators (Pull and Join multiple Data series)
 5. Joining Indicators and Plotting with Plotly
 6. Bar Chart of Unemployment
-7. Unemployment vs Participation
+7. Unemployment vs Participation.
 
 
 
